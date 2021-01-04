@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2332666-eef3-4d04-b605-bf4bf2f7697b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mZry3rWC5spzqwuO8KmDZbUG8X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\loyol\PycharmProjects\voz_para_texto" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.voice_recognizer (1)">
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assistente_virtual" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="voice_recognizer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assistente_virtual" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../assistente_virtual" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../assistente_virtual/voice_recognizer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="voice_recognizer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assistente_virtual" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/voice_recognizer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.voice_recognizer (1)" />
+        <item itemvalue="Python.voice_recognizer" />
+        <item itemvalue="Python.hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2332666-eef3-4d04-b605-bf4bf2f7697b" name="Default Changelist" comment="" />
+      <created>1609712204300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609712204300</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="379" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609712358446">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="379" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609712358446" />
+    <state x="851" y="286" key="#hello" timestamp="1609712341980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="851" y="286" key="#hello/0.0.1920.1040@0.0.1920.1040" timestamp="1609712341980" />
+    <state x="650" y="443" key="FileChooserDialogImpl" timestamp="1609718944842">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="650" y="443" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609718944842" />
+    <state x="822" y="422" key="Github.ShareDialog" timestamp="1609723563103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="822" y="422" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609723563103" />
+    <state x="753" y="227" width="889" height="585" key="Github.UntrackedFilesDialog" timestamp="1609723586179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="227" width="889" height="585" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609723586179" />
+    <state width="1899" height="742" key="GridCell.Tab.0.bottom" timestamp="1609721963419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="742" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609721963419" />
+    <state width="1899" height="742" key="GridCell.Tab.0.center" timestamp="1609721963419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="742" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609721963419" />
+    <state width="1899" height="742" key="GridCell.Tab.0.left" timestamp="1609721963419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="742" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609721963419" />
+    <state width="1899" height="742" key="GridCell.Tab.0.right" timestamp="1609721963419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="742" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609721963419" />
+    <state x="374" y="332" key="SettingsEditor" timestamp="1609719241838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="374" y="332" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609719241838" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1609721425746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609721425746" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1609721425746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609721425746" />
+  </component>
+</project>
